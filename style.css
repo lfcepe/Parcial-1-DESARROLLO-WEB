@@ -1,0 +1,22 @@
+div {
+    display: flex;  
+    justify-content: center;
+    padding: 15px;
+    margin: 150px;
+}
+.box {
+    border-radius: 20px;
+    border-color: black;
+    background-color: rgba(255, 255, 255, 0.541);
+    
+}
+#inicio{
+    font-size: 30px;
+}
+#middle{
+    font-size: 90px;
+}
+
+.roud{
+    font-size: 90px;
+}
